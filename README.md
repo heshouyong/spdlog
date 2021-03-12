@@ -31,6 +31,8 @@ $ cmake .. && make -j
 * vcpkg: `vcpkg install spdlog`
 * conan: `spdlog/[>=1.4.1]`
 * conda: `conda install -c conda-forge spdlog`
+* build2: ```depends: spdlog ^1.8.2```
+
 
 
 ## Features
